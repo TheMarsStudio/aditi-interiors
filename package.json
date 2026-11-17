@@ -1,0 +1,19 @@
+{
+  "name": "aditi-interiors-website",
+  "version": "1.0.0",
+  "description": "High-end luxury website for Aditi Interiors Design Studio",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 3000",
+    "dev": "python -m http.server 3000",
+    "serve": "npx serve ."
+  },
+  "keywords": [
+    "interior-design",
+    "aditi-interiors",
+    "luxury-interiors",
+    "portfolio"
+  ],
+  "author": "Aditi Interiors",
+  "license": "ISC"
+}

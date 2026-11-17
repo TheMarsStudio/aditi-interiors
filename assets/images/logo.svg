@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <defs>
+    <linearGradient id="aiBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#242c1e" />
+      <stop offset="100%" stop-color="#161c12" />
+    </linearGradient>
+  </defs>
+  <!-- Background Circle -->
+  <circle cx="100" cy="100" r="96" fill="url(#aiBg)" />
+  <circle cx="100" cy="100" r="95" fill="none" stroke="rgba(255,255,255,0.08)" stroke-width="1.5" />
+
+  <!-- Serif Letter A -->
+  <!-- Left stem and serif, Apex, Right stem and serif, Crossbar -->
+  <g fill="#EFEFEA">
+    <!-- Left leg -->
+    <path d="M 44 156 L 68 156 C 63 156 62 153 64 146 L 85 64 C 87 56 89 53 85 52 L 78 52 L 78 46 L 102 46 L 102 52 L 96 52 C 92 53 91 55 93 63 L 95 72 L 76 142 C 74 148 76 156 84 156 L 84 156 L 62 156 Z" opacity="0.95"/>
+    <!-- Right leg (main thick stroke) -->
+    <path d="M 94 46 L 122 46 L 122 52 C 117 52 114 54 112 59 L 154 144 C 158 152 163 155 170 156 L 170 156 L 170 156 L 142 156 L 142 150 C 147 150 149 148 147 143 L 138 124 L 95 72 Z" />
+    <!-- Top apex join -->
+    <path d="M 88 56 L 102 46 L 114 56 Z" />
+  </g>
+
+  <!-- Letter i nested inside the A -->
+  <!-- White circular dot -->
+  <circle cx="99" cy="98" r="9" fill="#EFEFEA" />
+  
+  <!-- Green vertical stem with serifs -->
+  <g fill="#96B842">
+    <!-- Top serif -->
+    <path d="M 92 112 L 106 112 C 104 112 103 113 103 115 L 103 151 C 103 153 104 154 107 154 L 108 154 L 108 157 L 90 157 L 90 154 L 92 154 C 95 154 96 153 96 151 L 96 115 C 96 113 95 112 92 112 Z" />
+  </g>
+</svg>

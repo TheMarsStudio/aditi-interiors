@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 280" width="100%" height="100%">
+  <!-- Grand Watermark Serif Letter A -->
+  <g fill="currentColor">
+    <!-- Left thin leg -->
+    <path d="M 20 250 L 58 250 C 48 250 46 244 50 230 L 102 36 C 104 26 102 22 92 20 L 78 20 L 78 12 L 126 12 L 126 20 L 114 20 C 106 22 104 26 108 38 L 118 64 L 68 230 C 64 242 66 250 80 250 L 80 250 L 20 250 Z" />
+    
+    <!-- Right thick leg -->
+    <path d="M 112 12 L 160 12 L 160 20 C 150 20 144 24 140 34 L 216 226 C 224 242 232 248 244 250 L 244 250 L 194 250 L 194 242 C 202 242 206 238 202 230 L 186 190 L 118 64 Z" />
+    
+    <!-- Top apex cap -->
+    <path d="M 100 24 L 122 12 L 142 24 Z" />
+  </g>
+
+  <!-- Letter i nested inside A -->
+  <!-- Dot -->
+  <circle cx="132" cy="138" r="14" fill="currentColor" />
+  
+  <!-- Stem in brand accent -->
+  <g fill="#96B842" opacity="0.9">
+    <path d="M 120 160 L 144 160 C 140 160 138 162 138 166 L 138 240 C 138 244 140 246 146 246 L 148 246 L 148 252 L 116 252 L 116 246 L 120 246 C 126 246 128 244 128 240 L 128 166 C 128 162 126 160 120 160 Z" />
+  </g>
+</svg>
